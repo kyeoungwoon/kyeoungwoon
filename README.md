@@ -1,4 +1,12 @@
 ### Hi there 👋
+- Lost in the Woods
+- Learning Basic Stuff, BRB!
+
+## 📽 Algorithm
+<p align="center">
+    <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kyeoungwoon"/>
+</p>
+
 
 <!--
 **kyeoungwoon/kyeoungwoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
