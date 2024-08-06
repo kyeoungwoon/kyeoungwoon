@@ -1,6 +1,5 @@
 ### Hi there 👋
-- Lost in the Woods
-- Learning Basic Stuff, BRB!
+- ghost
 
 ## 📽 Algorithm
 <p align="center">
