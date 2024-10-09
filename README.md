@@ -2,10 +2,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyeoungwoon&layout=compact&theme=radical"/>
 </p>
 
-<p align="center">
-    <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kyeoungwoon"/>
-</p>
-
 <h3 align="center">✨ Tech Stack ✨</h3>
 <br/>
 
@@ -28,7 +24,7 @@
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
-<br/>
+
 <div align="center">
 <a href="mailto:saveearth1@naver.com">
 saveearth1@naver.com
@@ -38,3 +34,8 @@ saveearth1@cau.ac.kr
 </a>&nbsp;
 
 </div>
+<br/>
+
+<p align="center">
+    <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kyeoungwoon"/>
+</p>
