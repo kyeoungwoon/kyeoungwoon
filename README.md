@@ -1,49 +1,49 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyeoungwoon&layout=compact&theme=radical"/>
-</p>
+반갑습니다 😁
+---
 
-<h3 align="center">✨ Tech Stack ✨</h3>
-<br/>
+안녕하세요! **삽질**하는 개발자, 박경운 입니다. 
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />&nbsp;
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />&nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />&nbsp;
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />&nbsp;
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logoColor=white" alt="Express.js" />&nbsp;
-</div>
+살아가면서 경험하는 여러가지 Pain point들을 서비스를 통해 해결하는 것을 좋아하며, 최대한 다양한 것을 경험하며 세상을 바라보는 시야를 넓히고자 합니다.
+열심히 노력하며 많은 것을 배우고, 얻은 것들을 다시 돌려주는 삶을 살아나가고 있습니다.
 
-<br>
+***A Software Engineer, A Problem Solver, A Developer***
 
-<h3 align="center">📫 Contact 📫</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyeoungwoon&layout=compact&theme=radical"/>
 
-<div align="center">
-<a href="mailto:saveearth1@naver.com">
-saveearth1@naver.com
-</a>&nbsp;
-<a href="mailto:saveearth1@cau.ac.kr">
-saveearth1@cau.ac.kr
-</a>&nbsp;
+### ✨ Tech Stack
 
-</div>
-<br/>
+| **Classification** | **Skills**                                     |
+| ------------------ | ---------------------------------------------- |
+| Framework          | Nest.js (Express), Next.js (React), SpringBoot |
+| Language           | TypeScript, Java, Python, C, C++, SQL          |
+| Infra              | Git, GitHub Actions, AWS, Docker               |
+| Tools              | Discord, Google Spreadsheet, Form, Apps Script |
+| IDE                | WebStorm, IntelliJ, VSCode                     |
 
-<p align="center">
-    <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kyeoungwoon"/>
-</p>
+### 📖 Certification / Qualification
+
+| **Date Acquired** | **Certification / Qualification**          |
+| ----------------- | ------------------------------------------ |
+| 2025.04.09        | SQLD                                       |
+| 2025.01.31        | AWS Certified Cloud Practitioner (CLF-C02) |
+| 2025.01.17        | Programmers PCCE Level 3                   |
+| 2023.08.16        | TOEIC 935 (RC 455, LC 480)                 |
+
+### 💻 Projects
+
+| **Period**        | **Project Name**                                                                          | **Role**                           | **Description**              |
+| ----------------- | ----------------------------------------------------------------------------------------- | ---------------------------------- | ---------------------------- |
+| 2025.10.26 ~      | [UMC Project Matching Service, UPMS](https://github.com/kyeoungwoon/umc-project-matching) | **Full Stack** (Next.js + Nest.js) | -                            |
+| 2025.06 ~ 2025.07 | [소규모 팀 관리자를 위한 운영 관리 향상 솔루선, HaRu](https://github.com/HaRu-Developers/haru-web)           | **FE** (Next.js)                   | -                            |
+| 2025.01 ~         | [5060을 위한 플랫폼, Peekle](https://github.com/Team-Peekle/peekle-api-nest)                    | **BE** (Nest.js)                   | 기존 Express로 작성 후 Nest.js로 이관 |
+
+### 🚀 Activities & Education
+
+| **Period**              | **Activity**       | **Role**                 | **Description**                                           |
+| ----------------------- | ------------------ | ------------------------ | --------------------------------------------------------- |
+| 2025.09 ~ 2026.08       | **GDGoC CAU**      | Team Member              | -                                                         |
+| 2025.09 ~ 2026.02       | **UMC 9th 중앙대학교**  | School Lead              | Leo Chapter (중앙대학교, 이화여자대학교, 한국외국어대학교, 단국대학교, 동덕여자대학교) |
+| 2025.02 ~ 2025.06       | **UMC 8th 중앙대학교**  | School, Chapter, TF Lead | Ain Chapter (중앙대학교, 숭실대학교, 가천대학교, 한양대학교 ERICA, 명지대학교)  |
+| 2025.02.08 ~ 2025.02.09 | **청룡톤**            | 운영진                      | GDGoC X UMC 연합 해커톤                                        |
+| 2024.09 ~ 2025.01       | **UMC 7th 중앙대학교**  | Node.js Challenger       | 서버 파트 수료                                                  |
+| 2024.08 ~ 2025.01       | **SeSAC 금천캠퍼스 4기** | -                        | 웹 풀스택 과정 (나동빈 강사)                                         |
