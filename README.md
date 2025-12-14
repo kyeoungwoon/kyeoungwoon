@@ -17,8 +17,6 @@
 | Framework          | SpringBoot, Next.js, Nest.js |
 | Language           | TypeScript, Java, Python, C, C++, SQL          |
 | Infra              | AWS, Docker, Git, GitHub Actions               |
-| Tools              | Discord, Google Spreadsheet, Form, Apps Script |
-| IDE                | WebStorm, IntelliJ, VSCode                     |
 
 ### 📖 Certification / Qualification
 
