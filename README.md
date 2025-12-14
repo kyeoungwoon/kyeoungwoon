@@ -8,15 +8,15 @@
 
 ***A Software Engineer, A Problem Solver, A Developer***
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyeoungwoon&layout=compact&theme=radical"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyeoungwoon&layout=compact&theme=radical"/> -->
 
 ### ✨ Tech Stack
 
 | **Classification** | **Skills**                                     |
 | ------------------ | ---------------------------------------------- |
-| Framework          | Nest.js (Express), Next.js (React), SpringBoot |
+| Framework          | SpringBoot, Next.js, Nest.js |
 | Language           | TypeScript, Java, Python, C, C++, SQL          |
-| Infra              | Git, GitHub Actions, AWS, Docker               |
+| Infra              | AWS, Docker, Git, GitHub Actions               |
 | Tools              | Discord, Google Spreadsheet, Form, Apps Script |
 | IDE                | WebStorm, IntelliJ, VSCode                     |
 
@@ -33,9 +33,9 @@
 
 | **Period**        | **Project Name**                                                                          | **Role**                           | **Description**              |
 | ----------------- | ----------------------------------------------------------------------------------------- | ---------------------------------- | ---------------------------- |
-| 2025.10.26 ~      | [UMC Project Matching Service, UPMS](https://github.com/kyeoungwoon/umc-project-matching) | **Full Stack** (Next.js + Nest.js) | -                            |
-| 2025.06 ~ 2025.07 | [소규모 팀 관리자를 위한 운영 관리 향상 솔루선, HaRu](https://github.com/HaRu-Developers/haru-web)           | **FE** (Next.js)                   | -                            |
-| 2025.01 ~         | [5060을 위한 플랫폼, Peekle](https://github.com/Team-Peekle/peekle-api-nest)                    | **BE** (Nest.js)                   | 기존 Express로 작성 후 Nest.js로 이관 |
+| 2025.10.26 ~      | [UMC Project Matching Service, UPMS](https://github.com/kyeoungwoon/umc-project-matching-service) | **PO & Full Stack** (Next.js + SpringBoot) | -                            |
+| 2025.06 ~ 2025.07 | [소규모 팀 관리자를 위한 운영 관리 향상 솔루선, HaRu](https://github.com/HaRu-Developers/haru-web)           | **Frontend** (Next.js)                   | -                            |
+| 2025.01 ~         | [5060을 위한 플랫폼, Peekle](https://github.com/Team-Peekle/peekle-api-nest)                    | **Backend** (Nest.js)                   | Express.js -> Nest.js 프레임워크 변경 |
 
 ### 🚀 Activities & Education
 
