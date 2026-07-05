@@ -23,16 +23,16 @@
 
 | **Period**        | **Project Name**                                                                                  | **Role**                                   | **Description**                                                                                                                                               |
 |-------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2026.01.10 ~      | [UMC Product Team](https://github.com/UMC-PRODUCT)                                                | **Server Team Lead**                       | [Server](https://github.com/UMC-PRODUCT/umc-product-server) [Infrastructure](https://github.com/UMC-PRODUCT/umc-product-infrastructure) |
-| 2025.10.26 ~      | [UMC Project Matching Service, UPMS](https://github.com/kyeoungwoon/umc-project-matching-service) | **PO & Full Stack** (Next.js + SpringBoot) | -                                                                                                                                                             |
+| 2025.12 ~      | [UMC PRODUCT](https://github.com/UMC-PRODUCT)                                                | **Server Team Lead**                       | [Server](https://github.com/UMC-PRODUCT/umc-product-server) [Infrastructure](https://github.com/UMC-PRODUCT/umc-product-infrastructure) |
+| 2025.10 ~ 2025.11 | [UMC Project Matching Service, UPMS](https://github.com/kyeoungwoon/umc-project-matching-service) | **PO & Full Stack** (Next.js + SpringBoot) | 약 300명의 동아리원의 데모데이 프로젝트 매칭을 위한 서비스                                                                                                                                                        |
 | 2025.06 ~ 2025.07 | [소규모 팀 관리자를 위한 운영 관리 향상 솔루선, HaRu](https://github.com/HaRu-Developers/haru-web)                   | **Frontend** (Next.js)                     | -                                                                                                                                                             |
-| 2025.01 ~         | [5060을 위한 플랫폼, Peekle](https://github.com/Team-Peekle/peekle-api-nest)                            | **Backend** (Nest.js)                      | Express.js -> Nest.js 프레임워크 변경                                                                                                                                |
+| 2025.01 ~ 2025.02    | [5060을 위한 플랫폼, Peekle](https://github.com/Team-Peekle/peekle-api-nest)                            | **Backend** (Nest.js)                      | Express.js -> Nest.js 프레임워크 변경                                                                                                                                |
 
 ### 🚀 Activities & Education
 
 | **Period**        | **Activity**         | **Role**                               | **Description**                                        |
 |-------------------|----------------------|----------------------------------------|--------------------------------------------------------|
-| 2026.01 ~         | **UMC Product Team** | Server Team Lead                       | UMC 공식 프로덕트팀을 위한 SpringBoot 서버 및 인프라 제작, 관리, 유지보수                 |
+| 2026.01 ~         | **UMC PRODUCT** | Server Team Lead                       | UMC 앱 및 웹사이트를 위한 백엔드 서비스 및 인프라 제작 및 관리                 |
 | 2025.09 ~ 2026.08 | **GDGoC 중앙대학교**      | Team Member                            | -                                                      |
 | 2025.09 ~ 2026.02 | **UMC 9th 중앙대학교**    | School Lead                            | Leo Chapter (중앙대학교, 이화여자대학교, 한국외국어대학교, 단국대학교, 동덕여자대학교) |
 | 2025.02 ~ 2025.06 | **UMC 8th 중앙대학교**    | School&Chapter&TF Lead, Web Challenger | Ain Chapter (중앙대학교, 숭실대학교, 가천대학교, 한양대학교 ERICA, 명지대학교)  |
